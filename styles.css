@@ -4,13 +4,13 @@ body {
   font-family: 'Segoe UI', sans-serif;
   margin: 0;
   padding: 0;
-  background: #fff9f9;
-  color: #333;
+  background: #91ccf2;
+  color: #ffffff;
 }
 
 header {
 /*banner*/
-  background-color: #f08ca2;
+  background-color: #0a0a0a;
   color: white;
   padding: 20px;
   text-align: center;
@@ -43,7 +43,7 @@ h2 {
 
 .service {
   background: #fff;
-  border: 1px solid #f1cdd3;
+  border: 1px solid #f3cdd3;
   border-radius: 8px;
   padding: 20px;
   flex: 1 1 250px;
